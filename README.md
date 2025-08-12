@@ -1,2 +1,1 @@
-# assignment-1-8120
-Testing project generation with logging
+# Assignment Repository Please refer to assignment documentation for details.
